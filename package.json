@@ -6,8 +6,7 @@
   "keywords": [
     "css",
     "oocss",
-    "",
-    ""
+    "max-height-scale"
   ],
   "css-max-height-scale": {
     "type": "git",
