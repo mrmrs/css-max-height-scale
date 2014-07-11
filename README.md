@@ -30,7 +30,7 @@ or download the css on github and include in your project.
 .mxhi9 {  max-height: 96rem; }
 .mxhi10 { max-height: 128rem; }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .mxhi1-ns  {  max-height: 1rem; }
   .mxhi2-ns  {  max-height: 2rem; }
   .mxhi3-ns  {  max-height: 4rem; }
@@ -44,7 +44,7 @@ or download the css on github and include in your project.
 
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .mxhi1-m  {  max-height: 1rem; }
   .mxhi2-m  {  max-height: 2rem; }
   .mxhi3-m  {  max-height: 4rem; }
@@ -58,7 +58,7 @@ or download the css on github and include in your project.
 
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .mxhi1-l  {  max-height: 1rem; }
   .mxhi2-l  {  max-height: 2rem; }
   .mxhi3-l  {  max-height: 4rem; }
