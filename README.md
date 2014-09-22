@@ -9,13 +9,18 @@
 *  -l  = large
 
 ## Install
+Grab the css partial from github and include it in your project or alternatively
+you can install it via npm:
 ```
 npm install --save-dev css-max-height-scale
 ```
-or download the css on github and include in your project.
+View on [npm](https://www.npmjs.org/package/css-max-height-scale)
+
 
 ## File Size
 
+1.5K max-height-scale.css
+1.1K max-height-scale.min.css
 
 ## The Code
 ```
