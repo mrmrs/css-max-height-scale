@@ -20,7 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-max-height-scale)
 ## File Size
 
 1.5K max-height-scale.css
-1.1K max-height-scale.min.css
+1.1K max-height-scale.min.css 
+249B minified and gzipped
 
 ## The Code
 ```
