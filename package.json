@@ -1,5 +1,6 @@
 {
   "name": "css-max-height-scale",
+  "style": "max-height-scale.css",
   "version": "0.0.4",
   "homepage": "http://github.com/mrmrs/css-max-height-scale",
   "description": "Css module of single purpose classes for max height scale",
