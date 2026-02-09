@@ -13,7 +13,7 @@
 .mxhi9 {  max-height: 96rem; }
 .mxhi10 { max-height: 128rem; }
 
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 32em) {
   .mxhi1-s  {  max-height: 1rem; }
   .mxhi2-s  {  max-height: 2rem; }
   .mxhi3-s  {  max-height: 4rem; }
@@ -27,7 +27,7 @@
 
 }
 
-@media screen and (min-width:48em) and (max-width: 64em) {
+@media screen and (min-width:48em) {
   .mxhi1-m  {  max-height: 1rem; }
   .mxhi2-m  {  max-height: 2rem; }
   .mxhi3-m  {  max-height: 4rem; }
@@ -41,7 +41,7 @@
 
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 96em) {
   .mxhi1-l  {  max-height: 1rem; }
   .mxhi2-l  {  max-height: 2rem; }
   .mxhi3-l  {  max-height: 4rem; }
